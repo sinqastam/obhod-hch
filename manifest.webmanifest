@@ -1,0 +1,16 @@
+{
+  "id": "./",
+  "name": "Обход точек ХЧ",
+  "short_name": "Обход ХЧ",
+  "description": "Ежемесячный чек-лист обхода точки Хингал Чам",
+  "lang": "ru",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f6f5f1",
+  "theme_color": "#f6f5f1",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
